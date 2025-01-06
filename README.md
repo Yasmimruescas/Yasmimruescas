@@ -18,7 +18,7 @@
 ---
 
 ### 📫 Entre em contato comigo:
-<a href="https://linkedin.com/in/yasmim-ruescas" target="_blank">
+<a href="https://linkedin.com/in/yasmim-ruescas](https://www.linkedin.com/in/yasmim-ruescas-27a40931a" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasmim ruescas" height="30" width="40" />
 </a>
 
