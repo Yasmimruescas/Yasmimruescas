@@ -31,7 +31,7 @@
 ```yaml
 name: Yasmim Ruescas
 role: Cybersecurity & IT Governance Intern
-education: FIAP — Defesa Cibernética
+education: FIAP — Segurança Cibernética
 
 focus:
   - IT Governance
