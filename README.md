@@ -7,7 +7,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=SEUUSERNAME&label=Profile%20Views&color=c084fc&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=YasmimRuescasE&label=Profile%20Views&color=c084fc&style=flat"/>
 
 <br><br>
 
@@ -117,4 +117,4 @@ Currently focused on growing in:
 ###  ✨Security is not a product, but a process — and I'm here for every step of it!! ✨
 
 </div>
-````
+
