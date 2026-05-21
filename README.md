@@ -1,21 +1,32 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:06b6d4&height=220&section=header&text=Yasmim%20Ruescas&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9a8d4,50:c084fc,100:38bdf8&height=230&section=header&text=Yasmim%20Ruescas&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Cybersecurity+%26+IT+Governance+Intern;Threat+Hunting+%7C+DFIR+%7C+OffSec;Building+Secure+and+Intelligent+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=19&duration=3000&pause=1000&color=F5D0FE&center=true&vCenter=true&width=750&lines=Cybersecurity+%26+IT+Governance+Intern;Governance+%7C+Threat+Intelligence+%7C+DFIR;Building+Secure+and+Reliable+Systems"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackaday&logoColor=white"/>
-<img src="https://img.shields.io/badge/Threat%20Intelligence-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DFIR-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud%20Security-0284C7?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=SEUUSERNAME&label=Profile%20Views&color=c084fc&style=flat"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Cybersecurity-f9a8d4?style=for-the-badge&logo=hackaday&logoColor=white"/>
+<img src="https://img.shields.io/badge/IT%20Governance-c084fc?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Threat%20Intelligence-7dd3fc?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DFIR-38bdf8?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220px"/>
 
 </div>
 
 ---
 
-# 🖤 About Me
+#  💗 About Me
+
+<img src="https://user-images.githubusercontent.com/74038190/212750761-774b7f7f-0d61-4d70-9c0d-1ccf7f69e3b2.gif" width="100%">
 
 ```yaml
 name: Yasmim Ruescas
@@ -23,16 +34,33 @@ role: Cybersecurity & IT Governance Intern
 education: FIAP — Defesa Cibernética
 
 focus:
-  - Malware Analysis
-  - Threat Hunting
-  - Offensive Security
+  - IT Governance
+  - Threat Intelligence
   - DFIR
+  - Malware Analysis
   - Cloud Security
+  - Secure Development
 ```
+
+Cybersecurity student passionate about governance, cyber defense and secure technologies.
+
+I enjoy combining:
+- security & strategy
+- governance & innovation
+- defensive security & development
+
+Currently focused on growing in:
+- Governance & Compliance
+- Threat Intelligence
+- Cloud Security
+- Detection & Monitoring
+- Secure Development
+
+<br clear="right"/>
 
 ---
 
-# ⚡ Tech Stack
+# ✨ Tech Stack
 
 <div align="center">
 
@@ -40,10 +68,10 @@ focus:
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-F97316?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Nmap-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-f9a8d4?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Splunk-c084fc?style=for-the-badge&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nessus-7dd3fc?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP-38bdf8?style=for-the-badge"/>
 
 </div>
 
@@ -51,49 +79,14 @@ focus:
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td>
-
-🛡️ **Anti-Ransomware Project**  
-Behavior-based ransomware detection system.
-
-</td>
-
-<td>
-
-🍯 **Honeypot System**  
-Threat monitoring & cyber deception environment.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-🏗️ **WorkSafeProject**  
-Secure fullstack platform with Laravel.
-
-</td>
-
-<td>
-
-🛒 **CRM Zé Coisinha Tem Tudo**  
-Modern CRM with Java + React.
-
-</td>
-</tr>
-</table>
-
----
-
-# 📊 GitHub Stats
-
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+| Project | Description |
+|---|---|
+| 🛡️ Anti-Ransomware Project | Behavioral ransomware detection & monitoring |
+| 🍯 Honeypot System | Threat monitoring and cyber deception |
+| 🏗️ WorkSafeProject | Secure fullstack platform |
+| 🛒 CRM Zé Coisinha Tem Tudo | Modern CRM with Java + React |
 
 </div>
 
@@ -103,20 +96,25 @@ Modern CRM with Java + React.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/SEULINK">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/yasmim-ruescas/">
+<img src="https://img.shields.io/badge/LinkedIn-c084fc?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEUEMAIL">
-<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:yasmim.ruescas@outlook.com">
+<img src="https://img.shields.io/badge/Email-f9a8d4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-### 🧠 “Security is a mindset.”
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+<br>
+
+###  ✨Security is not a product, but a process — and I'm here for every step of it!! ✨
 
 </div>
+````
